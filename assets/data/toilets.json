@@ -1,0 +1,31 @@
+[
+  {
+    "name": "ห้องน้ำ 1",
+    "rating\": 4.1,\n    \"distance": 150.0
+  },
+  {
+    "name": "ห้องน้ำ 2",
+    "rating": 4.5,
+    "distance": 50.0
+  },
+  {
+    "name": "ห้องน้ำ 3",
+    "rating": 4.8,
+    "distance": 1500.0
+  },
+  {
+    "name": "ห้องน้ำ 4",
+    "rating": 4.3,
+    "distance": 120.0
+  },
+  {
+    "name": "ห้องน้ำ 5",
+    "rating": 2.5,
+    "distance": 350.0
+  },
+  {
+    "name": "ห้องน้ำ 6",
+    "rating": 3.5,
+    "distance": 200.0
+  }
+]
